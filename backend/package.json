@@ -1,0 +1,18 @@
+{
+  "name": "fraud-ring-backend",
+  "version": "1.0.0",
+  "description": "Express API backed by CognoDB (openCypher/Bolt graph database) for the Loan Fraud Ring Explorer",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node scripts/seed.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "neo4j-driver": "^5.24.0"
+  }
+}
