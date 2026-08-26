@@ -1,7 +1,7 @@
 Loan Fraud Ring Explorer:
 
 Live demo: https://fraud-ring-explorer.vercel.app/ 
-Screen recording: <add your recording link here>
+Screen recording: https://www.loom.com/share/75c6ad2887bf4eea932bec79f7566b47
 
 A full-stack application that surfaces hidden loan application fraud rings — clusters of applications, filed under different fabricated identities, that secretly reuse the same phone number, device, address, or bank account — backed by CognoDB, a managed graph database that speaks openCypher over Bolt.
 
